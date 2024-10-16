@@ -1,0 +1,30 @@
+body{
+    background-color: aqua;
+    align-items: center;
+}
+h1{
+    color: blue;
+    text-align: center;
+}
+div{
+    background-color: white;
+    text-align: left;
+    width: 30%;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px;
+    height: 80%;
+
+}
+.alpha,.beta{
+    color: blue;
+}
+button{
+    background-color: blue;
+    width: 100%;
+    justify-content: center;
+    margin: auto;
+}
+.nav{
+    width: 95%;
+}
